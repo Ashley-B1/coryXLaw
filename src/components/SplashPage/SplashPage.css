@@ -1,3 +1,28 @@
 .splash-page {
   border: solid red 2px;
+  background-color: #1875ad;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #FFFAF1;
+  padding: 3rem;
+}
+
+.main-title {
+  font-size: 4rem;
+  font-weight: 300;
+  letter-spacing: .2rem;
+}
+
+.slogan {
+  font-size: 2.2rem;
+  font-weight: 300;
+  color: #E6E6DA;
+  padding: .2rem;
+  margin-bottom: 1.6rem;
+}
+
+.splash-info {
+  border: yellow solid 2px;
 }
