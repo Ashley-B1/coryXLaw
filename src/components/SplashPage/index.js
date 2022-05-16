@@ -7,7 +7,7 @@ const SplashPage = () => {
       <h1 className='main-title'>CoryXLaw</h1>
       <h3 className='slogan'>Shogun At Law</h3>
       <div className='splash-info'>
-        a div with stuff in it
+        just adding something to my garden!!!
       </div>
     </div>
   )
