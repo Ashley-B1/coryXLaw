@@ -9,20 +9,32 @@
   padding: 3rem;
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-icon {
+  font-size: 2.4rem;
+  color: #16FA55
+}
+
 .main-title {
   font-size: 4rem;
   font-weight: 300;
   letter-spacing: .2rem;
+  margin-top: -.8rem;
 }
 
 .slogan {
-  font-size: 2.2rem;
+  font-size: 1.7rem;
   font-weight: 300;
   color: #E6E6DA;
-  padding: .2rem;
-  margin-bottom: 1.6rem;
+  margin-top: -.8rem;
 }
 
 .splash-info {
-  border: yellow solid 2px;
+  margin-top: 1.6rem;
+  border: blue solid 2px;
 }
